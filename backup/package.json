@@ -1,5 +1,5 @@
 {
-  "name": "simple",
+  "name": "simple-spa",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,5 +34,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Creating an SPA - RecipeBook",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phayhy/simple-spa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phayhy/simple-spa/issues"
+  },
+  "homepage": "https://github.com/phayhy/simple-spa#readme"
 }
