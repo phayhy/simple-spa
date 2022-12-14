@@ -3,6 +3,8 @@ Creating an SPA - RecipeBook
 This will work with an API that is created in Express -> linked to Mongodb
 
 1. Create a base RecipeBook.js and import into App.js
+   npm install react-bootstrap bootstrap
+   npm install axios
 2. Setup state mock data
    _id, title, ingredients[]
 3. Place current page as a state page: list
