@@ -1,6 +1,6 @@
 //this does all the UI rendering of all recipes
 import React from "react";
-import RecipeItem from "../components/RecipeItem";
+import RecipeItem from "../../../src/components/RecipeItem";
 
 export default function AllRecipe(props) {
   return (
